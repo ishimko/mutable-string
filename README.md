@@ -1,5 +1,7 @@
 # mutable-string
 
+[![Build Status](https://travis-ci.org/vanashimko/mutable-string.svg?branch=master)](https://travis-ci.org/vanashimko/mutable-string)
+
 Funny example of how two different strings can be equal:
 
 ```csharp
