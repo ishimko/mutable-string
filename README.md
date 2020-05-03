@@ -12,3 +12,5 @@ Assert.That("test", Is.EqualTo("teot"));
 
 See [tests](https://github.com/vanashimko/mutable-string/blob/master/MutableString.Tests/MutableStringTests.cs).
 
+Also see related StackOverflow [question](https://stackoverflow.com/questions/58705351/why-does-using-fieldoffset0-in-c-sharp-end-up-with-different-pointers-for-char).
+
